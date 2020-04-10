@@ -1,0 +1,13 @@
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.exe
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.deps.json
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.runtimeconfig.json
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.runtimeconfig.dev.json
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.dll
+D:\Inheritance_2685\Latihan_1\bin\Debug\netcoreapp3.1\Latihan_1.pdb
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.csprojAssemblyReference.cache
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.csproj.CoreCompileInputs.cache
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.AssemblyInfoInputs.cache
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.AssemblyInfo.cs
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.dll
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.pdb
+D:\Inheritance_2685\Latihan_1\obj\Debug\netcoreapp3.1\Latihan_1.genruntimeconfig.cache

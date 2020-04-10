@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>D:\PEMROGRAMAN\Inheritance-Constructor\Latihan_1\Backup1\</UpgradeBackupLocation>
+    <OldToolsVersion>Current</OldToolsVersion>
+  </PropertyGroup>
+</Project>
